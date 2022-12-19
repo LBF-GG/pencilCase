@@ -1,10 +1,10 @@
-package com.loaves.pencilcase;
+package com.loaves.carapace;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PencilCaseApplicationTests {
+class PcCarapaceApplicationTests {
 
     @Test
     void contextLoads() {

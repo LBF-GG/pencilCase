@@ -1,13 +1,13 @@
-package com.loaves.pencilcase;
+package com.loaves.carapace;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PencilCaseApplication {
+public class PcCarapaceApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(PencilCaseApplication.class, args);
+        SpringApplication.run(PcCarapaceApplication.class, args);
     }
 
 }
